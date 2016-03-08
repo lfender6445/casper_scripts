@@ -1,0 +1,4 @@
+#! /bin/bash
+cd ../browsermob-proxy/ || exit
+./target/browsermob-proxy-2.0.0/bin/browsermob-proxy
+
