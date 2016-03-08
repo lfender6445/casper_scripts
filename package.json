@@ -4,11 +4,8 @@
   "private": true,
   "dependencies": {
     "browsermob-proxy": "^1.0.9",
-    "express": "2.5.8",
-    "jade": ">= 0.0.1",
-    "phantomjs": "^1.9.18",
-    "request": "2.63.0",
-    "spooky": "^0.2.5"
+    "casperjs": "^1.1.0-beta5",
+    "phantomjs": "^1.9.18"
   },
   "scripts": {
     "start": "node app.js",

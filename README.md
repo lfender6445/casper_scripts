@@ -1,5 +1,10 @@
 # install
 
+http://docs.casperjs.org/en/latest/installation.html
+
+npm install
+
+## proxy
 - install latest jdk
 - set `JAVA_HOME`
 	 - `echo $JAVA_HOME` => `/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home`
