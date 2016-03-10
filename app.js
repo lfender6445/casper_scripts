@@ -2,8 +2,6 @@ var casper = require('casper').create({
   logLevel: "debug"
 });
 
-require('./lib/casper_debug');
-
 var host = 'http://www.apartmentguide.com';
 var path = '/';
 var uri = host + path;
