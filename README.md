@@ -8,9 +8,8 @@ npm install
 - install latest jdk
 - set `JAVA_HOME`
 	 - `echo $JAVA_HOME` => `/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home`
-- build browser-mob-proxy from source via `tag browsermob-proxy-2.0.0`
-- start proxy
-  - ./target/browsermob-proxy-2.0.0/bin/browsermob-proxy
+- build browser-mob-proxy from source via tag `browsermob-proxy-2.0.0`
+- `./bin/proxy`
 
 # deps
   - [browsermob-proxy svc](https://github.com/lightbody/browsermob-proxy/)
@@ -24,4 +23,4 @@ npm install
   - node-inspector --web-port=8083
 - set breakpoints
 
-
+# TODO
